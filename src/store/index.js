@@ -1,3 +1,4 @@
+//增强函数compose
 import { createStore } from 'redux'
 import reducer from './reducer'
 
